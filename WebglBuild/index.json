@@ -1,0 +1,34 @@
+{
+	"poki_template_version": 1,
+	"extra_html": {
+	  "head": [
+		"<!-- will be copied to the resulting head //-->"
+	  ],
+	  "body": [
+		"<!-- will be copied to the resulting body //-->",
+		"<!-- will also be copied to the resulting body //-->"
+	  ]
+	},
+	"background_color": "#231F20",
+	"background_filename": "",
+	"code_filename": "e05b4112af43fdea1bc9c68b5da4763d.wasm",
+	"company_name": "DefaultCompany",
+	"data_filename": "6b9670448b682f50b0b0de80ddd1fe67.data",
+	"decompression_fallback": "",
+	"development_player": "false",
+	"framework_filename": "2f60f0be495d3cef1038e294a6b3ed43.framework.js",
+	"height": "1080",
+	"loader_filename": "bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+	"memory_filename": "",
+	"product_name": "I Found It",
+	"product_version": "1.0",
+	"splash_screen_style": "Dark",
+	"symbols_filename": "",
+	"unity_version": "2022.3.51f1",
+	"use_data_caching": "true",
+	"use_threads": "false",
+	"use_wasm": "true",
+	"use_webgl_1_0": "false",
+	"use_webgl_2_0": "true",
+	"width": "1920"
+  }
